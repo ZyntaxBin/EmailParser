@@ -1,6 +1,8 @@
 # EmailParser
 Analyze customer emails with AI
 
+Outputs a json response displayed using Streamlit
+
 ## How to run
 I suggest making a Python virtual environment `python -m venv PROJECTNAME`, otherwise skip to the pip command
 
