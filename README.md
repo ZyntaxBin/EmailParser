@@ -18,6 +18,8 @@ Install the required packages with the following command:
 
 Enter the API key in the `.env` file (refer to `.envsample` for the format)
 
+>*I suggest using Gemini for its free and no-cost API key used for prototyping*
+
 Run the program with this command:
 
 `steamlit run app.py`
