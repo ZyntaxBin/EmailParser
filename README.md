@@ -1,7 +1,7 @@
 # EmailParser
 Analyze customer emails with AI
 
-Outputs a json response displayed using Streamlit
+Outputs a JSON response displayed using Streamlit
 
 Can work with multiple LLM models via LiteLLM
 
