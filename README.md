@@ -22,6 +22,6 @@ Enter the API key in the `.env` file (refer to `.envsample` for the format)
 
 Run the program with this command:
 
-`steamlit run app.py`
+`streamlit run app.py`
 
 It will launch the browser and open the app page. Simply do `Ctrl+C` on the terminal to stop the program
